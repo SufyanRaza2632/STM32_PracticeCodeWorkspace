@@ -1,0 +1,10 @@
+15:24:26 **** Incremental Build of configuration Debug for project Bit_band_exercise ****
+make -j8 all 
+arm-none-eabi-size  Bit_band_exercise.elf 
+   text	   data	    bss	    dec	    hex	filename
+    704	      0	   1568	   2272	    8e0	Bit_band_exercise.elf
+Finished building: default.size.stdout
+ 
+
+15:24:26 Build Finished. 0 errors, 0 warnings. (took 159ms)
+
