@@ -1,0 +1,10 @@
+20:45:18 **** Incremental Build of configuration Debug for project SVC_Calculator ****
+make -j8 all 
+arm-none-eabi-size  SVC_Calculator.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5620	     92	   1900	   7612	   1dbc	SVC_Calculator.elf
+Finished building: default.size.stdout
+ 
+
+20:45:18 Build Finished. 0 errors, 0 warnings. (took 255ms)
+
