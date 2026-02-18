@@ -154,7 +154,7 @@ int main(void)
 
 
 
-	uint32_t *pISER1 = (uint32_t*) NVIC_ISER0 ;
+	uint32_t *pISER1 = (uint32_t*) NVIC_ISER1 ;
  8000276:	4b09      	ldr	r3, [pc, #36]	@ (800029c <main+0x2c>)
  8000278:	607b      	str	r3, [r7, #4]
 
@@ -165,7 +165,7 @@ int main(void)
  8000282:	687b      	ldr	r3, [r7, #4]
  8000284:	601a      	str	r2, [r3, #0]
 
-	uint32_t *pISPR1 = (uint32_t*) NVIC_ISPR0;
+	uint32_t *pISPR1 = (uint32_t*) NVIC_ISPR1;
  8000286:	4b06      	ldr	r3, [pc, #24]	@ (80002a0 <main+0x30>)
  8000288:	603b      	str	r3, [r7, #0]
 

@@ -1,0 +1,5 @@
+../Src/main.c:29:5:main	24	static
+../Src/main.c:54:6:MemManage_Handler	4	static
+../Src/main.c:59:6:BusFault_Handler	4	static
+../Src/main.c:64:29:UsageFault_Handler	0	static,ignoring_inline_asm
+../Src/main.c:69:6:UsageFault_Handler_c	24	static

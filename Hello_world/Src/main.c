@@ -28,5 +28,6 @@ int main(void)
 {
     /* Loop forever */
 	printf("Hello World\n");
+	printf("In Usage Fault Handeler\n");
 	for(;;);
 }

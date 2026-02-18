@@ -1,0 +1,7 @@
+../Src/main.c:24:10:Addition	24	static,ignoring_inline_asm
+../Src/main.c:31:10:Subtraction	24	static,ignoring_inline_asm
+../Src/main.c:37:11:Division	24	static,ignoring_inline_asm
+../Src/main.c:43:11:Multiply	24	static,ignoring_inline_asm
+../Src/main.c:50:5:main	24	static
+../Src/main.c:67:27:SVC_Handler	0	static,ignoring_inline_asm
+../Src/main.c:72:6:SVC_Handler_call	40	static

@@ -1,0 +1,7 @@
+../Src/main.c:24:10:Addition	1
+../Src/main.c:31:10:Subtraction	1
+../Src/main.c:37:11:Division	1
+../Src/main.c:43:11:Multiply	1
+../Src/main.c:50:5:main	1
+../Src/main.c:67:27:SVC_Handler	1
+../Src/main.c:72:6:SVC_Handler_call	5
